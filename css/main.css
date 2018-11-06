@@ -19,3 +19,7 @@ h1 {
 section {
   font-size: .875rem;
 }
+
+img {
+  width: 100px;
+}
