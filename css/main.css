@@ -77,10 +77,15 @@ a {
 }
 
 .btn {
-  width: 25%;
+  display: block;
+  color: #fff;
   background-color: #333;
+  margin: 0;
+  padding: .75rem;
+  width: auto;
+  border-radius: 8px;
+  text-decoration: none;
 }
 
 .btn:hover {
-
 }
