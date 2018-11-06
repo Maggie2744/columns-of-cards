@@ -7,3 +7,15 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+header {
+  background-color: #f2f2f2;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+section {
+  font-size: .875rem;
+}
