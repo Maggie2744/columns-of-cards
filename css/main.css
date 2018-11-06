@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -11,6 +11,7 @@ html {
 /** Header Element **/
 
 body {
+  margin: 0;
 }
 
 header {
@@ -61,9 +62,19 @@ div:nth-child(4) {
 }
 
 img {
-  width: 100px;
+  display: inline;
+  max-width: 100px;
+  width: auto;
+}
+
+a {
 }
 
 .btn {
   width: 25%;
+  background-color: #333;
+}
+
+.btn:hover {
+
 }
