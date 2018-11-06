@@ -8,15 +8,26 @@ html {
   box-sizing: inherit;
 }
 
+/** Header Element **/
+
 header {
   background-color: #f2f2f2;
+}
+
+.title {
 }
 
 h1 {
   font-size: 2rem;
 }
 
-section {
+/** Link Card Elements **/
+
+.link-cards {
+  display: flex;
+}
+
+section:nth-child(2) {
   font-size: .875rem;
 }
 
