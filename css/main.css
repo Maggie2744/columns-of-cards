@@ -76,12 +76,9 @@ img {
   flex-basis: 25%;
   justify-content: space-around;
   max-width: 100px;
-  width: auto;
+  width: 100px;
   margin-left: auto;
   margin-right: auto;
-}
-
-a {
 }
 
 .btn {
@@ -97,4 +94,6 @@ a {
 }
 
 .btn:hover {
+  background-color: #000;
+  color: #fff;
 }
