@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   line-height: 1.5;
   font-family: "Open Sans", sans-serif;
-  font-size: .875rem;
+  font-size: 1rem;
 }
 
 *, *::before, *::after {
