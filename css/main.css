@@ -94,6 +94,7 @@ img {
 
 .btn-small {
   width: auto;
+  margin-top: 50px;
 }
 
 .btn:hover {
