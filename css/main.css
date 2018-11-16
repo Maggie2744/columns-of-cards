@@ -76,7 +76,8 @@ img {
   display: block;
   flex-basis: 25%;
   justify-content: space-around;
-  width: 6.25em;
+  max-width: 100px;
+  width: auto;
   margin-left: auto;
   margin-right: auto;
 }
@@ -93,7 +94,7 @@ img {
 }
 
 .btn-small {
-  width: 100px;
+  width: auto;
 }
 
 .btn:hover {
