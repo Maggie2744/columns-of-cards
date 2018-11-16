@@ -104,3 +104,7 @@ img {
 p {
   font-size: 1rem;
 }
+
+.image {
+  width: 50%;
+}
